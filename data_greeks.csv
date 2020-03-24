@@ -1,4 +1,4 @@
-country,code-2,code-3,cases,new_cases_per_day,cases_delta_per_day,cases_gamma_per_day,cases_delta_per_week,cases_gamma_per_week,deaths,new_deaths,days_since_last_update,next_destination,arrivals_past_week,incoming_vessels_delta_per_week
+country,code-2,code-3,cases,new_cases,cases_delta_per_day,cases_gamma_per_day,cases_delta_per_week,cases_gamma_per_week,deaths,new_deaths,days_since_last_update,next_destination,arrivals_past_week,incoming_vessels_delta_per_week
 Angola,AO,AGO,3,1,0.33,0.33,1,1,0,0,1,2,2,1
 Bahamas,BS,BHS,4,4,1,1,1,1,0,0,1,1,0,0
 Barbados,BB,BRB,17,3,0.18,-0.39,1,1,0,0,1,,,
